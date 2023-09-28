@@ -10,7 +10,7 @@
 
 4. Answer to why **human have so few (coding) genes**: more advancing the creature is, more **non-coding gene** it has.
    
-    - milestone of RNA discovery ![image-20230927195204645](https://github.com/Stefan-s-wang/Repo-for-Stefan-Wang/blob/main/Pictures/image-20230927195204645.png?raw=true)
+    - milestone of RNA discovery ![image-20230927195204645](https://github.com/Stefan-s-wang/Repo-for-Stefan-Wang.github.io/blob/main/Pictures/image-20230927195204645.png?raw=true)
     - nc RNAs
     
       > |Canonical ncRNAs|Small ncRNAs|Long ncRNAs (IncRNA)|
@@ -23,7 +23,7 @@
 ## difference between Algorithm and Model
 1. In bioinformatics, **model means mathematical and probability model, while algorithm refers to computational algorithm**. 
 2. When running a practice, **model is to abstract the practical issue into a series of mathematical formulus**. As to **algorithm, it's the concrete way to resolve the mathematical model** abstracted from issue.
-3. Models, like Logistic Regression specialized for classification or Random Forest for Classifier, are **mature solutions** to  a problem with certain features. Whereas algorithms such as  Dynamic Programming Algorithm used in blast, are the **foundemental method or specific path** to build and  perfect the models.![image-20230927210829157](https://github.com/Stefan-s-wang/Repo-for-Stefan-Wang/blob/main/Pictures/image-20230927210829157.png?raw=true)
+3. Models, like Logistic Regression specialized for classification or Random Forest for Classifier, are **mature solutions** to  a problem with certain features. Whereas algorithms such as  Dynamic Programming Algorithm used in blast, are the **foundemental method or specific path** to build and  perfect the models.![image-20230927210829157](https://github.com/Stefan-s-wang/Repo-for-Stefan-Wang.github.io/blob/main/Pictures/image-20230927210829157.png?raw=true)
 
 ## Learning Plan
 
